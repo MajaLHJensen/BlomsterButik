@@ -1,0 +1,27 @@
+.flowers h1{
+    text-align: center;
+}
+
+.flowers img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+#buttonContainer{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#priceContainer{
+    text-align: center;
+    padding-top: 10px;
+}
